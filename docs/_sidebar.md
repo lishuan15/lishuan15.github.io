@@ -1,7 +1,6 @@
-- [:octocat: 首页](/README)
+<!-- - [:octocat: 首页](/README) -->
 - :memo: 目录
    - 第1章：视光档案目录
-   
        - [第1节：APP内嵌h5（web端）](/md/idea-plugin/App内嵌H5.md)
        <!-- - [第2节：IDEA 插件怎么发布](/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md) -->
    
