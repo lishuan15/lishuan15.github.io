@@ -4,4 +4,5 @@
        - [第1节：开放API接口调用指南](/md/idea-plugin/开放API接口调用指南.md)
        - [第2节：App内嵌H5屈光档案](/md/idea-plugin/App内嵌H5屈光档案.md)
        - [第3节：根据手机号注册屈光档案](/md/idea-plugin/根据手机号注册屈光档案.md)
+       - [第4节：儿童眼轴趋势预测](/md/idea-plugin/儿童眼轴趋势预测接口.md)
 
