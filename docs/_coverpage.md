@@ -4,8 +4,7 @@
 
 ## 近停视界开放文档
 
-<!-- - 本仓库以基于 docsify 构建的所见即所得博客，程序员👨🏻‍💻伙伴可以通过克隆仓库，配置基础的信息就可以拥有一个这样的博客了！ -->
-<!--     
-[![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io)  -->
+- 欢迎进入近视防控的智慧未来
+欢迎访问近停视界开放API文档中心。在循证医学证据井喷、创新技术层出不穷的今天，近视防控正在经历一场划时代的变革。作为这场变革的开创者、共建者和见证者，近停视界致力于构建一个“眼科医生集团 + 4L甄选平台”双核驱动的智慧健康防控体系。！
 
 [开始阅读](README.md)
