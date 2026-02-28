@@ -45,6 +45,8 @@ setupJSBridge() {
   // 2. 注册全局主题设置函数
   window.setThemeVariables = this.setThemeVariables
   
+  // 3...
+  
   console.log('H5方法已暴露，等待原生调用...')
 }
 ```
