@@ -16,7 +16,7 @@
 ### 2.1 H5页面信息
 
 - **页面名称**：屈光档案
-- **H5链接**：`http://localhost:8080/wechat?route=jdf#/`
+- **H5链接**：`https://h5.myopia88.com/wechat/?route=jdf#/`
 - **运行环境**：App内嵌WebView
 
 ### 2.2 通信方式
